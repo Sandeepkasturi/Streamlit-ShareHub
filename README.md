@@ -1,6 +1,6 @@
-# Streamlit ShareHub
+# Streamlit ShareSpace
 
-Streamlit ShareHub is a web application that allows users to upload and run their own Streamlit applications directly from a GitHub repository. This application simplifies the process of sharing and running Streamlit apps by automating the download, installation of dependencies, and execution of the app.
+Streamlit ShareSpace is a web application that allows users to upload and run their own Streamlit applications directly from a GitHub repository. This application simplifies the process of sharing and running Streamlit apps by automating the download, installation of dependencies, and execution of the app.
 
 ## Features
 
@@ -31,8 +31,8 @@ Streamlit ShareHub is a web application that allows users to upload and run thei
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/Streamlit-ShareHub.git
-cd Streamlit-ShareHub
+git clone https://github.com/sandeepkasturi/Streamlit-ShareSpace.git
+cd Streamlit-ShareSpace
 ```
 
 2. Install the required dependencies:
@@ -49,5 +49,5 @@ streamlit run streamlit_app.py
 
 ## Credits
 
-Streamlit ShareHub is developed by [Sandeep Kasturi](https://instagram.com/sandeep_kasturi_). It utilizes the Streamlit library for building the web application interface and interacting with Streamlit apps. Clone to Streamlit cloud.
+Streamlit ShareSpace is developed by [Sandeep Kasturi](https://instagram.com/sandeep_kasturi_). It utilizes the Streamlit library for building the web application interface and interacting with Streamlit apps. Clone to Streamlit cloud.
 
