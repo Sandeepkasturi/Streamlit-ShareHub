@@ -1,6 +1,1 @@
 streamlit
-time
-shutil
-requests
-webbrowser
-zipfile
