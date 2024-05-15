@@ -8,7 +8,7 @@ from zipfile import ZipFile
 import shutil
 
 # Set page configuration
-st.set_page_config(page_title="Streamlit ShareHub", layout="wide")
+st.set_page_config(page_title="Streamlit ShareSpace", layout="wide")
 
 # Custom CSS for advanced styling
 st.markdown("""
@@ -184,7 +184,7 @@ def download_from_github(repo_url):
 
 
 # Header and Instructions
-st.title("Streamlit ShareHub")
+st.title("Streamlit ShareSpace")
 st.write("""
 This application allows you to upload and run your own Streamlit applications.
 ### Instructions
